@@ -1,4 +1,25 @@
 # ML-projects
 here I will store my old projects
 
-[HW1](https://github.com/AnastasiyaMax/ML-projects/blob/master/Modern_methods_of_Machine_Learning_HW1.ipynb)
+## Modern methods of Machine Learning, fall 2017:
+
+- [HW1](https://github.com/AnastasiyaMax/ML-projects/blob/master/Modern_methods_of_Machine_Learning_HW1.ipynb) (SVR for regression, CountVectorizer, SVC)
+- [HW2](https://github.com/AnastasiyaMax/ML-projects/blob/master/Modern_methods_of_Machine_Learning_HW2.ipynb) (replication of the article using RandomForestClassifier, GradientBoostingClassifier and AdaBoostClassifier)
+- [HW3](https://github.com/AnastasiyaMax/ML-projects/blob/master/Modern_methods_of_Machine_Learning_HW3.ipynb) (forecasting time series)
+
+## Machine Learning, fall 2017:
+
+- [HW1](https://github.com/AnastasiyaMax/ML-projects/blob/master/Machine_Learning_HW1.ipynb) (linear, lasso and ridge regressions, realisations of gradient descent and stochastic gradient descent)
+- [HW2](https://github.com/AnastasiyaMax/ML-projects/blob/master/Machine_Learning_HW2.ipynb) (SVM, SVD, PCA, RBF PCA)
+- [HW3](https://github.com/AnastasiyaMax/ML-projects/blob/master/Machine_Learning_HW3.ipynb) (ensembles, bias-variance decomposition, trees and neural networks (using keras))
+- [Kaggle competition submit](https://github.com/AnastasiyaMax/ML-projects/blob/master/kaggle_dota2_best_submit.ipynb)
+
+## Applications of data analysis, spring 2018:
+
+- [HW1](https://github.com/AnastasiyaMax/ML-projects/blob/master/Applications_of_data_analysis_HW1.ipynb) (using scrapy and pymorphy2)
+- [HW2](https://github.com/AnastasiyaMax/ML-projects/blob/master/Applications_of_data_analysis_HW2.ipynb) (predicting the share price using financial news)
+- [HW3](https://github.com/AnastasiyaMax/ML-projects/blob/master/Applications_of_data_analysis_HW3.ipynb) (PCA, KMeans and spectral clustering for working with images. also SVD)
+
+## Introduction to data analysis, spring 2017
+
+- [HW3](https://github.com/AnastasiyaMax/ML-projects/blob/master/Intro_To_Data_Analysis_HW3.ipynb) (t-SNE for dimensionality reduction, KMeans for clustering, nearest centroid, multinomialNB, BernoulliNB, logistic regression and RandomForestClassifier for classification)
