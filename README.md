@@ -23,3 +23,8 @@ here I will store my old projects
 ## Introduction to data analysis, spring 2017
 
 - [HW3](https://github.com/AnastasiyaMax/ML-projects/blob/master/Intro_To_Data_Analysis_HW3.ipynb) (t-SNE for dimensionality reduction, KMeans for clustering, nearest centroid, multinomialNB, BernoulliNB, logistic regression and RandomForestClassifier for classification)
+
+## Econometrics Projects
+
+- [Project 1](https://github.com/AnastasiyaMax/ML-projects/blob/master/Econometrics_Project_1.ipynb) (testing the hypothesis using data about small businesses in Russia)
+- [Project 2](https://github.com/AnastasiyaMax/ML-projects/blob/master/Econometrics_Project_2.ipynb) (time series: seasonal decomposition, acf, pacf, ARIMA)
