@@ -8,11 +8,7 @@ here I will store my old projects
 - [HW3](https://github.com/AnastasiyaMax/ML-projects/blob/master/Modern_methods_of_Machine_Learning_HW3.ipynb) (forecasting time series)
 
 ## Machine Learning, fall 2017:
-
-- [HW1](https://github.com/AnastasiyaMax/ML-projects/blob/master/Machine_Learning_HW1.ipynb) (linear, lasso and ridge regressions, realisations of gradient descent and stochastic gradient descent)
-- [HW2](https://github.com/AnastasiyaMax/ML-projects/blob/master/Machine_Learning_HW2.ipynb) (SVM, SVD, PCA, RBF PCA)
-- [HW3](https://github.com/AnastasiyaMax/ML-projects/blob/master/Machine_Learning_HW3.ipynb) (ensembles, bias-variance decomposition, trees and neural networks (using keras))
-- [Kaggle competition submit](https://github.com/AnastasiyaMax/ML-projects/blob/master/kaggle_dota2_best_submit.ipynb)
+tba
 
 ## Applications of data analysis, spring 2018:
 
