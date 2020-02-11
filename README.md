@@ -8,7 +8,7 @@ here I will store my old projects
 - [HW3](https://github.com/AnastasiyaMax/ML-projects/blob/master/Modern_methods_of_Machine_Learning_HW3.ipynb) (forecasting time series)
 
 ## Machine Learning, fall 2017:
-tba
+The HWs will not be uploaded while the course is taking place.
 
 ## Applications of data analysis, spring 2018:
 
