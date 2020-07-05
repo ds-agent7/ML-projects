@@ -24,3 +24,6 @@ The HWs will not be uploaded while the course is taking place.
 
 - [Project 1](https://github.com/AnastasiyaMax/ML-projects/blob/master/Econometrics_Project_1.ipynb) (testing the hypothesis using data about small businesses in Russia)
 - [Project 2](https://github.com/AnastasiyaMax/ML-projects/blob/master/Econometrics_Project_2.ipynb) (time series: seasonal decomposition, acf, pacf, ARIMA)
+
+## Random
+– [Time Series Exploration](https://github.com/AnastasiyaMax/ML-projects/blob/master/Project_Abroskin_Maximovskaya.ipynb)
